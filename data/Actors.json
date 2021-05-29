@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_5","characterIndex":4,"characterName":"Actor1","classId":3,"equips":[1,1,0,0,0],"faceIndex":4,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"le sauveur","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_6","characterIndex":5,"characterName":"Actor1","classId":3,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"la sauveuse","note":"","profile":""}
+]
