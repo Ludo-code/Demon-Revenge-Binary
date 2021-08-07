@@ -2,4 +2,4 @@
 
 
 
-Juste mon RPG
+Juste mon RPG, cette page sert uniquement à télécharger le jeux.
